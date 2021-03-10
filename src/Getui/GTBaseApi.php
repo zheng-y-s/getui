@@ -1,6 +1,7 @@
 <?php
 namespace Getui;
 
+use Getui\utils\GTHttpManager;
 class GTBaseApi
 {
 	protected $gtClient;

@@ -1,0 +1,27 @@
+{
+    "name": "zheng-y-s/getui",
+    "description": "getui && sss",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zheng-y-s",
+            "email": "674954904@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Getui\\": "src/Getui"
+        }
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
